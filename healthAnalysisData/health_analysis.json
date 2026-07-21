@@ -1,0 +1,53 @@
+{
+  "conditions": [
+    {
+      "name": "Diabetes",
+      "imagesrc": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=500",
+      "symptoms": [
+        "Frequent urination",
+        "Increased thirst",
+        "Fatigue",
+        "Blurred vision"
+      ],
+      "prevention": [
+        "Balanced diet",
+        "Exercise daily",
+        "Maintain healthy weight"
+      ],
+      "treatment": "Medication, insulin therapy and regular health check-ups."
+    },
+    {
+      "name": "Thyroid",
+      "imagesrc": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=500",
+      "symptoms": [
+        "Weight gain",
+        "Fatigue",
+        "Dry skin",
+        "Hair fall"
+      ],
+      "prevention": [
+        "Healthy diet",
+        "Regular exercise",
+        "Medical check-up"
+      ],
+      "treatment": "Hormone replacement therapy as prescribed by a doctor."
+    },
+    {
+      "name": "High Blood Pressure",
+      "imagesrc": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=500",
+      "symptoms": [
+        "Headache",
+        "Chest pain",
+        "Dizziness",
+        "Blurred vision"
+      ],
+      "prevention": [
+        "Reduce salt",
+        "Exercise regularly",
+        "Avoid smoking",
+        "Manage stress"
+      ],
+      "treatment": "Blood pressure medication, healthy diet and regular monitoring."
+    }
+  ]
+}

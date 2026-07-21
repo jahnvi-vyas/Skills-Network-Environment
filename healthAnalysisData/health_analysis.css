@@ -1,0 +1,109 @@
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f4f8fb;
+}
+
+nav{
+    background:#0077b6;
+    color:#fff;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 40px;
+}
+
+nav ul{
+    display:flex;
+    list-style:none;
+    gap:15px;
+    align-items:center;
+}
+
+nav a{
+    color:#fff;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+nav input{
+    padding:8px;
+    border-radius:5px;
+    border:none;
+}
+
+nav button{
+    padding:8px 15px;
+    border:none;
+    background:#00b4d8;
+    color:white;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.container{
+    display:flex;
+    justify-content:space-around;
+    gap:40px;
+    padding:30px;
+    flex-wrap:wrap;
+}
+
+.analysisForm,
+.searchCondition{
+    width:45%;
+    min-width:350px;
+    background:#fff;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 2px 10px rgba(0,0,0,.15);
+}
+
+.analysisForm div{
+    margin:15px 0;
+}
+
+.analysisForm input,
+.analysisForm select{
+    width:100%;
+    padding:10px;
+    margin-top:5px;
+}
+
+.analysisForm button{
+    margin-top:15px;
+    padding:10px 20px;
+    background:#0077b6;
+    color:white;
+    border:none;
+    cursor:pointer;
+    border-radius:5px;
+}
+
+#report{
+    margin-top:20px;
+    padding:15px;
+    background:#eef7ff;
+    border-radius:8px;
+}
+
+#result{
+    text-align:center;
+}
+
+#result img{
+    width:250px;
+    height:180px;
+    object-fit:cover;
+    border-radius:10px;
+    margin:15px 0;
+}
+
+#result h2{
+    color:#0077b6;
+}
+
+#result p{
+    text-align:left;
+    line-height:1.6;
+}
