@@ -1,0 +1,52 @@
+{
+    "articles": [
+      {
+        "title": "Healthy Eating",
+        "description": "A balanced diet helps maintain good health and provides essential nutrients.",
+        "ways_to_achieve": [
+          "Eat fresh fruits and vegetables",
+          "Drink plenty of water",
+          "Avoid processed foods",
+          "Reduce sugar intake"
+        ],
+        "benefits": [
+          "Boosts immunity",
+          "Improves digestion",
+          "Maintains healthy weight",
+          "Increases energy levels"
+        ]
+      },
+      {
+        "title": "Regular Exercise",
+        "description": "Daily physical activity keeps your body fit and your mind healthy.",
+        "ways_to_achieve": [
+          "Walk for 30 minutes daily",
+          "Practice yoga",
+          "Do strength training",
+          "Stretch regularly"
+        ],
+        "benefits": [
+          "Improves heart health",
+          "Builds muscle strength",
+          "Reduces stress",
+          "Improves sleep quality"
+        ]
+      },
+      {
+        "title": "Mental Wellness",
+        "description": "Maintaining good mental health is as important as physical health.",
+        "ways_to_achieve": [
+          "Meditate daily",
+          "Spend time with family",
+          "Take regular breaks",
+          "Get enough sleep"
+        ],
+        "benefits": [
+          "Reduces anxiety",
+          "Improves focus",
+          "Enhances mood",
+          "Increases productivity"
+        ]
+      }
+    ]
+  }
